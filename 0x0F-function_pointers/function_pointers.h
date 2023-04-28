@@ -20,4 +20,7 @@ int op_mod(int a, int b);
 int (*get_op_func(char *s))(int, int);
 
 #endif
+<<<<<<< HEAD
+=======
 
+>>>>>>> 24f03f1b406aa7e70c6594ca1fcad667f96b525a
