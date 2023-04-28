@@ -1,4 +1,8 @@
+<<<<<<< HEAD
    global    main
+=======
+ global    main
+>>>>>>> 7c8d162607126a14f97b9f417af26876357e6f3e
           extern    printf
 main:
 	  mov   edi, format
