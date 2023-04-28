@@ -58,4 +58,9 @@ You are allowed to use printf and atoi
 You have to use atoi to convert the argument to an int
 If the number of argument is not the correct one, print Error, followed by a new line, and exit with the status 1
 If the number of bytes is negative, print Error, followed by a new line, and exit with the status 2
+<<<<<<< HEAD
 You do not have to compile with any fla
+=======
+You do not have to compile with any flags
+
+>>>>>>> 24f03f1b406aa7e70c6594ca1fcad667f96b525a
